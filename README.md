@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rickcode789
-- - 👀 I’m interested in web development and design
+- 👀 I’m interested in web development and design
 - 🌱 I’m currently learning web development and design
 - 💞️ I’m looking to collaborate on web development and design
 - 📫 How to reach me ...
